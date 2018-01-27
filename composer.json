@@ -1,0 +1,15 @@
+{
+  "name": "nepali/vitrinekar",
+  "description": "Sistema de Gestão de oficinas",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jonas R Oliveira",
+      "email": "jonasrod@gmail.com"
+    }
+  ],
+  "require": {
+    "doctrine/orm": "2.3.5"
+  }
+}
